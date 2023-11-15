@@ -12,8 +12,17 @@ public class Main {
 		//Exe.myMethod("id", "FisrtName");
 		//Exe.printMang();
 		//Exe.sumAndAverage();
-		Exe.sumAndAverage2();
-		
+		//Exe.sumAndAverage2();
+		//Exe.sumAndAverageEx3();
+		//Exe.sumAndAverageEx4();
+		//Exe.sumPow();
+		//Exe.sumHarmonic();
+		//Exe.squareBoard(5);
+		//Exe.checkerBoard(7);
+		//Exe.printString();
+		//Exe.isOdd(22);
+		//Exe.hasEight(64484);
+		Exe.magicSum();
 	}
 	
 	public static void practiceObject() {
